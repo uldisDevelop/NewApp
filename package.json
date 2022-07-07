@@ -14,7 +14,7 @@
     "immer": "^5.0.0",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-redux": "^7.1.3",
